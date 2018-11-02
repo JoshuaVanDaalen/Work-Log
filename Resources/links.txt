@@ -1,0 +1,6 @@
+#Date picker
+https://www.c-sharpcorner.com/UploadFile/mahesh/wpf-datepicker/
+
+#Pages
+http://paulstovell.com/blog/wpf-navigation
+https://msdn.microsoft.com/en-us/library/ms997506.aspx?f=255&MSPPError=-2147217396
